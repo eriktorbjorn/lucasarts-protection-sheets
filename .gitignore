@@ -1,0 +1,12 @@
+*.o
+*~
+indy3_decode
+loom_decode
+maniac_decode
+monkey1_decode
+monkey2_decode
+zak_decode
+indy3_create_table
+loom_create_table
+maniac_create_table
+zak_create_table
