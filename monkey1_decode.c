@@ -31,7 +31,7 @@ int main(int argc, char *argv[]) {
 		printf("Pirate faces\n\n");
 		printf("0 Sideburns        3 Skull             6 Monkey\n");
 		printf("1 Nightcap         4 Brown-skinned     7 Masked\n");
-		printf("2 Redhead          5 Scarred           8 Zombie\n");
+		printf("2 Redhead          5 Scarred           8 Zombie\n\n");
 
 		printf("Places\n\n");
 		printf("0 Antigua          3 Montserrat        6 Tortuga\n");
